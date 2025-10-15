@@ -24,7 +24,7 @@
 <div align="center">
 
 ### 🤖 Machine Learning & Data Science
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
@@ -35,7 +35,7 @@
 </div>
 
 ### 🌐 Frontend Development
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
@@ -44,19 +44,19 @@
 </div>
 
 ### 🚀 Backend & APIs
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
 </div>
 
 ### 🗄️ Bases de Datos
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
 </div>
 
 ### ☁️ Cloud & DevOps
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp" />
